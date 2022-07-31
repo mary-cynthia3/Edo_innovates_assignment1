@@ -6,4 +6,4 @@
 ![question6](https://user-images.githubusercontent.com/86866669/182019509-42f79342-151f-4de8-b462-893aa0fa45e6.png)
 ![question7](https://user-images.githubusercontent.com/86866669/182019518-40677872-7ca1-41a2-889b-062ce333ca81.png)
 # Edo_innovates_assignment1
-https://mary-cynthia3.github.io/Edo_innovates_assignment1/[live]
+https://mary-cynthia3.github.io/Edo_innovates_assignment1/
